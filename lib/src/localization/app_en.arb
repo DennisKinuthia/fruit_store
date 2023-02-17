@@ -1,0 +1,12 @@
+{
+    "appTitle": "Soko",
+    "anErrorOccured", "An error occured",
+    "usernameGreeting", "Hey Dennis,",
+    "homeCaption": "You are what you eat!",
+    "searchHint": "Search fresh fruits",
+    "topSellingLabel": "Top Selling",
+    "addToCartButton": "Add to cart",
+    "deliveryTime": "Delivery Time",
+    "time" : "25-35 Min",
+    "productNotFound": "Product not found",
+}
