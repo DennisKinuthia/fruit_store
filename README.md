@@ -43,3 +43,9 @@ This app uses feature first app structuring where each feature is contained with
 
 ### 6. Riverpod for state management
 Riverpod is a powerful tool for state management. It is built to improve on the provider package. It uses providers, declared globally to allow access from anywhere in the app, that create accessibility to state data.
+
+
+## Screenshots
+<img width="330" alt="Screen Shot 2023-02-17 at 17 52 30" src="https://user-images.githubusercontent.com/98651593/219674101-9a7a7e6d-faf3-4432-85bc-6a55c51e4e13.png">
+<img width="330" alt="Screen Shot 2023-02-17 at 17 52 41" src="https://user-images.githubusercontent.com/98651593/219674159-237abb62-2f25-4d5c-96ef-d28efb532850.png">
+
